@@ -1,0 +1,6 @@
+[workspace]
+members = [
+  "calc_core",
+  "calc_cli"
+, "calc_gui"]
+resolver = "2"
